@@ -2,10 +2,10 @@ Dreadful Heritage
 Deadly Heritage
 Heritage of Death
 
-Tema: terror psicolÛgico/suspense
+Tema: terror psicol√≥gico/suspense
 
-Local: Mans„o/Fazenda/Loja/Hotel de estrada/Barco ou Iate/Galp„o na floresta/Casinha velha no bosque
-Ucr‚nia - Kiev
+Local: Mans√£o/Fazenda/Loja/Hotel de estrada/Barco ou Iate/Galp√£o na floresta/Casinha velha no bosque
+Ucr√¢nia - Kiev
 
 Tempo: 18 anos/1939
 
@@ -14,27 +14,48 @@ Protagonista: Kyle Copeland Jr.
 Antes: Where is my dad (12 anos/1933)
 Depois: ----
 
-Resumo: Ao final de where is my dad Kyle descobre que seu pai deixou uma heranÁa para ele, e ent„o esse jogo comeÁa com Kyle recebendo sua heranÁa ao completar 18 anos.
-	o Jogo comeÁa com o Kyle na estrada de frente para uma trilha na floresta(ou outro lugar) que supostamente leva atÈ a heranÁa de seu pai e o jogador ent„o segue a trilha com as orientaÁıes dos controle (como um tutorial).
+Resumo: Ao final de where is my dad Kyle descobre que seu pai deixou uma heran√ßa para ele, e ent√£o esse jogo come√ßa com Kyle recebendo sua heran√ßa ao completar 18 anos.
+	o Jogo come√ßa com o Kyle na estrada de frente para uma trilha na floresta(ou outro lugar) que supostamente leva at√© a heran√ßa de seu pai e o jogador ent√£o segue a trilha com as orienta√ß√µes dos controle (como um tutorial).
 
 Personagem vai ter uma lanterna e tem que pegar baterias.
 Disco de Vinil para salvar o Game - Tocar sozinho para amedrontar?
-Mecanica de Insanidade? Quanto mais terror o boneco sentir mais apariÁıes ele vÍ?
+Mecanica de Insanidade? Quanto mais terror o boneco sentir mais apari√ß√µes ele v√™?
 
-Vai ter sÛ um inimigo? Ele vai ser real ou da sua cabeÁa?
+Vai ter s√≥ um inimigo? Ele vai ser real ou da sua cabe√ßa?
 
-Ou um È real e os outros da cabeÁa, e o player tem dificuldade de distinguir o que È real e o que n„o È?
+Ou um √© real e os outros da cabe√ßa, e o player tem dificuldade de distinguir o que √© real e o que n√£o √©?
 
-Explorar Corredores! Jumpscare fica legal em partes que s„o obrigatÛrias o player passar (Ex o player passa pelo corredor e chega em uma porta fechada. Na volta, toma o Jumpscare.)
+Explorar Corredores! Jumpscare fica legal em partes que s√£o obrigat√≥rias o player passar (Ex o player passa pelo corredor e chega em uma porta fechada. Na volta, toma o Jumpscare.)
 
+Fazer o mapa ser um item do invent√°rio? Conseguir ver o mapa somente com a lanterna e quando chover estragar o mapa para o player ficar um periodo sem. Depois disso, ele encontra outro mapa at√© o final do jogo.
 
 Coisas Legais de acontecerem esporadicamente:
 
 	- Portas se fecharem sozinhas.
-	- Objetos CaÌrem.
-	- Luzes piscares
-	- Sons de passos (pode ser que vc ouÁa e seja da sua cabeÁa ou pode ser o som do bix„o. Assim o player nunca sabe se realmente tem alguem atras dele ou se ele t· safe.) - D· pra usar a desculpa de que ele fugiu do lab e n„o se lembra, e que ele È um experimento que n„o deu certo por isso tem esses bugs. Ou que o jogo dois se passa depois do 3.
+	- Objetos Ca√≠rem.
+	- Luzes piscarem
+	- Sons de passos (pode ser que vc ou√ßa e seja da sua cabe√ßa ou pode ser o som do bix√£o. Assim o player nunca sabe se realmente tem alguem atras dele ou se ele t√° safe.) - D√° pra usar a desculpa de que ele fugiu do lab e n√£o se lembra, e que ele √© um experimento que n√£o deu certo por isso tem esses bugs. Ou que o jogo dois se passa depois do 3.
 
 
+Come√ßo do jogo:
 
+#Cena: Rua + Posto
 
+#Contexto: Kyle recebe uma carta em sua casa no final do primeiro jogo.
+Kyle percebe pelo seu mapa (que recebeu com a carta) ap√≥s ver uma placa (Welcome to Kushnir), que est√° perdido. Com isso, precisa parar pra abastecer (zoom no velocimetro) e pedir informa√ß√µes, estacionando assim o carro em algum lugar no posto.
+Loading e Kyle aparece fora do carro.
+
+#Jogabilidade: Com o personagem fora do carro, o player deve procurar a bomba e explorar o local.
+
+Nisso encontrar√° um mapa na parede. Ele pega esse mapa e adiciona ao invent√°rio. Depois ele vai at√© a bomba e enquanto enche ouve um barulho de porta fechar.
+O personagem decide averiguar o som e ver se alguem est√° por perto. Ao entrar no estabelecimento, ele ouve passos correndo do lado de fora, mas ao se aproximar da porta a energia cai.
+(No escuro, ele diz que precisa de uma lanterna. Com isso a camera foca em uma lanterna em cima do balcao.) O personagem vai averiguar o som ap√≥s isso mas s√≥ encontra dois documentos em uma sala.
+
+Ao ir embora, vemos o carro se distanciar e uma figura o observa.
+
+Task 1:Obter o Mapa das proximidades (estar√° contido: Igreja, Armazem, Usina, e Laborat√≥rio).
+Task 2:Encher o tanque do carro.
+Task 3:Entre no estabelecimento e pegue a lanterna no balc√£o.
+Task 4:Entre no carro.
+
+PS: deixar um colecion√°vel no posto, dentro do estabelecimento.
