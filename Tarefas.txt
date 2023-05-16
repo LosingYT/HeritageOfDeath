@@ -1,0 +1,12 @@
+Felps
+
+Criar objeto - Inimigo
+Criar objeto - 
+Fazer Script
+
+
+Taly 
+
+Criar Inventario
+Programar Ação Inimigo
+Mecanica de Save
