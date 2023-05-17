@@ -1,0 +1,31 @@
+Lanterna
+
+	Lanterna de mão simples. Nela, há uma nota: Utilize bateria AA para recarregar.
+
+Moeda
+
+	Moeda antiga do banco de Kiev. Provavelmente só deve servir para colecionar, no máximo, tocar um Jukebox.
+
+Isqueiro
+
+	Isqueiro simples, encrustado com uma ensignia de familia.
+
+Machado
+
+	Um machado cego. Pouco util para cortar coisas, mas dá para o gasto. Ineficaz como arma.
+
+Mapa
+
+	Um mapa encontrado no posto de gasolina de Kushnir. Não é muito preciso, mas vai ajudar.
+
+Mapa da carta
+
+	Mapa enviado na carta de seu pai. Hora de receber essa herança!
+
+Vela
+
+	Vela comum, para iluminar ambientes sombrios.
+
+Câmera
+
+	Câmera fotográfica de um americano. Invenção interessante que pode captar o que os olhos não veem.
