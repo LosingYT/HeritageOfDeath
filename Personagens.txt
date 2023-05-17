@@ -1,21 +1,22 @@
 Player - Kyle Copeland Jr
 
-Altura:
-Cor do cabelo: ??
-Cor dos olhos:
+Altura: 1,75
+Cor do cabelo: castanho
+Cor dos olhos: castanho
 Background:
 
 Dad - Kyle Copeland
 
-Altura:
-Cor do cabelo: ??
+Altura: 
+Cor do cabelo: 
 Cor dos olhos:
 Background: 
 
-Bixão - ???
+Bixão - 
 
-Altura:
-Cor do cabelo: ??
-Cor dos olhos:
+Altura: 2,10
+Cor do cabelo: Negros
+Cor dos olhos: ??
 Background:
 Arma: Machadinhas
+
